@@ -2,6 +2,10 @@
 
 你好，我是崔效瑞
 
+是一名编程讲师
+是一名 tdd 践行者
+是一名 web 程序员
+
 <!--
 **cuixiaorui/cuixiaorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
