@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuixiaorui&show_icons=true&theme=radical" />
+
 ### Hi there 👋
 
 你好，我是崔效瑞
