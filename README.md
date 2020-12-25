@@ -5,7 +5,7 @@
 - 是一名编程讲师
 - 是一名 tdd 践行者
 - 是一名 web 程序员
-- 是一名全键盘爱好者
+- 是一名纯键盘工作者
 
 <!--
 **cuixiaorui/cuixiaorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
