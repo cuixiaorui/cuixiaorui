@@ -7,7 +7,7 @@
 - 是一名 web 程序员
 - 是一名纯键盘工作者
 
-可以关注我的 b 站哦，定期分享技术干货 [传送门](https://www.bilibili.com/video/BV1FX4y1K72F)
+可以关注我的 b 站哦，定期分享技术干货 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
 
 <!--
 **cuixiaorui/cuixiaorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
