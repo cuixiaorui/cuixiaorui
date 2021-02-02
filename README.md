@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-你好，我是崔效瑞
+你好鸭，我是崔效瑞
 
 - 是一名编程讲师
-- 是一名 tdd 践行者
-- 是一名 web 程序员
-- 是一名纯键盘工作者
+- 是一名技术 up 主
+- 是一名程序员
 
-可以关注我的 b 站哦，定期分享技术干货 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
+可以关注我的 b 站哦，每周都会分享技术干货 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
 
 <!--
 **cuixiaorui/cuixiaorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
