@@ -6,7 +6,7 @@
 - 是一名技术 up 主
 - 是一名程序员
 
-可以关注我的 b 站哦，每周都会分享技术干货 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
+可以关注我的 b 站哦，每周都会分享高级前端进阶硬核内容 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
 
 <!--
 **cuixiaorui/cuixiaorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
